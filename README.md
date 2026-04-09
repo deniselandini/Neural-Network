@@ -1,15 +1,22 @@
 # 2021 NN Final Project
+<p align="center">
+    <img src="./READMEimages/title.png" style="width: 750px;"></img>
+</p>
 
 Final project for the course of Neural Networks 2020/2021.
 
->Student: Denise Landini Mat: `1938388`;
->
 >Student: Alessandro Lambertini Mat: `1938390`;
+>
+>Student: Denise Landini Mat: `1938388`;
 
 ## 📝 Assignment
 
 1.	Reimplement the network in the Paper [Link 🔗](https://arxiv.org/abs/1907.07000) (Github page of the paper [Link 🔗](https://github.com/Andrewsher/X-Net))
+    -   [NN]X-Net.ipynb [Open In Collab 🔗](https://colab.research.google.com/github/lambertinialessandro/NN-FinalProject/blob/main/[NN]X-Net.ipynb)
 2.  Reimplement the same network but in the Quaternion domain.
+    -   [NN]X-Net quaternions.ipynb [Open In Collab 🔗](https://colab.research.google.com/github/lambertinialessandro/NN-FinalProject/blob/main/[NN]X-Net%20quaternions.ipynb)
+
+
 
 ## 💾 Dataset
 
@@ -24,11 +31,37 @@ Final project for the course of Neural Networks 2020/2021.
 
 ## 💯 Final score:
 
-Score: `30L`
+Score: `30L/30`
 
 ## 🙋 Info
 
 for any doubt or clarification contact me on:
 
--   send me an email at: deniselandini98@gmail.com
--   send me a DM on instagram [Link 🔗](https://www.instagram.com/deniselandini/)
+-   send me an email at: lambertini.1938390@studenti.uniroma1.it
+-   send me a DM on instagram [Link 🔗](https://www.instagram.com/lambertinialessandro/)
+
+## 🎞️ Snapshots
+
+<p align="center">
+    <img src="./READMEimages/network.png" style="width: 750px;"></img>
+    <br>
+    X-Net with FSM
+</p>
+
+<p align="center" style="width: 500px">
+    <img src="./READMEimages/result1.png" style="width: 500px;"></img>
+    <br>
+    random sample output from X-Net with FSM
+</p>
+
+<p align="center">
+    <img src="./READMEimages/result2.png" style="width: 500px;"></img>
+    <br>
+    random sample output from X-Net without FSM
+</p>
+
+<p align="center">
+    <img src="./READMEimages/metrics.png" style="width: 750px;"></img>
+    <br>
+    Comparisons between different models
+</p>
