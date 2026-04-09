@@ -2,9 +2,9 @@
 
 Final project for the course of Neural Networks 2020/2021.
 
->Student: Alessandro Lambertini Mat: `1938390`;
->
 >Student: Denise Landini Mat: `1938388`;
+>
+>Student: Alessandro Lambertini Mat: `1938390`;
 
 ## 📝 Assignment
 
@@ -30,5 +30,5 @@ Score: `30L`
 
 for any doubt or clarification contact me on:
 
--   send me an email at: lambertini.1938390@studenti.uniroma1.it
--   send me a DM on instagram [Link 🔗](https://www.instagram.com/lambertinialessandro/)
+-   send me an email at: deniselandini98@gmail.com
+-   send me a DM on instagram [Link 🔗](https://www.instagram.com/deniselandini/)
