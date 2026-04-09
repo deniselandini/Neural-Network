@@ -1,6 +1,6 @@
 # 2021 NN Final Project
 <p align="center">
-    <img src="./READMEimages/title.png" style="width: 750px;"></img>
+    <img src="./READMEImages/title.png" style="width: 750px;"></img>
 </p>
 
 Final project for the course of Neural Networks 2020/2021.
@@ -42,25 +42,25 @@ for any doubt or clarification contact me on:
 ## 🎞️ Snapshots
 
 <p align="center">
-    <img src="./READMEimages/network.png" style="width: 750px;"></img>
+    <img src="./READMEImages/network.png" style="width: 750px;"></img>
     <br>
     X-Net with FSM
 </p>
 
 <p align="center" style="width: 500px">
-    <img src="./READMEimages/result1.png" style="width: 500px;"></img>
+    <img src="./READMEImages/result1.png" style="width: 500px;"></img>
     <br>
     random sample output from X-Net with FSM
 </p>
 
 <p align="center">
-    <img src="./READMEimages/result2.png" style="width: 500px;"></img>
+    <img src="./READMEImages/result2.png" style="width: 500px;"></img>
     <br>
     random sample output from X-Net without FSM
 </p>
 
 <p align="center">
-    <img src="./READMEimages/metrics.png" style="width: 750px;"></img>
+    <img src="./READMEImages/metrics.png" style="width: 750px;"></img>
     <br>
     Comparisons between different models
 </p>
